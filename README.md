@@ -13,7 +13,8 @@
 		接口中只有抽象方法, 无普通方法，一定是public abstract修饰。接口中所有常量一定是public, abstract。
 	    接口中只有常量，无普通变量，所有常量一定是public final 。
 上转型：老虎是哺乳动物，Tiger extends A ;  Animal a = new Tiger(); 
-		![Image text](https://github.com/raoyaoiau/Java/tree/master/images/class01.png)
+		![Image text](https://github.com/raoyaoiau/Java/blob/master/images/class01.png)
+		              
 
 super
 ![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)

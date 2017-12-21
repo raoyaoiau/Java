@@ -6,7 +6,6 @@ README.md
 
 ## 第一部分：
 
-*[Java基础知识](https://github.com/raoyaoiau/Java/Java01/Java基础知识README.md)
-
+*[Java基础知识](https://github.com/raoyaoiau/Java/blob/master/Java01/Java基础知识README.md)
 
 

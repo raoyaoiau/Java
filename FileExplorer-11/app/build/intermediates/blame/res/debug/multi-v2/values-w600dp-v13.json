@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-w600dp\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "749",
+                        "endColumns": "55",
+                        "endOffsets": "800"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-w600dp\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "749",
+                        "endColumns": "55",
+                        "endOffsets": "800"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

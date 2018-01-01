@@ -1,0 +1,718 @@
+[
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\spinner_48_inner.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\spinner_48_inner.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_logo_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_logo_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_checkoff_edit.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\btn_checkoff_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_filetype_search.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_filetype_search.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\panel_bg_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\panel_bg_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_txt_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_txt_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_star_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_star_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_addressbar_left.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_addressbar_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_topbg.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_topbg.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_thumb_disabled.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\switch_thumb_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_bg_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_multiline_activated.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_multiline_activated.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pdf_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_pdf_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_excel_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_excel_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_addressbar_right.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_addressbar_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_picture_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_picture_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_divider_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_search_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_search_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_picturefloder_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_picturefloder_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_picture_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_picture_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selected.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\list_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_star_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_star_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_ppt_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_ppt_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_graystar_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_graystar_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_longpressed.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\list_longpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check_on.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_48_inner_holo.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_normal.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_delete_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check_off.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_pressed_general.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_pressed_general.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_voice_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_voice_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__progress_secondary_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_addressbar_middle.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_addressbar_middle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_primary_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check_on_pressed.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_focused_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_video_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_video_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_other_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_other_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_logo_about.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_logo_about.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cut_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_cut_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_activated_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sort_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_sort_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_disabled.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_nofile_error.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_nofile_error.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_search_api_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_nosdcard_error.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_nosdcard_error.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\spinner_20_inner.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\spinner_20_inner.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_multiline_default.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_multiline_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_compress_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_compress_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_file_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_file_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__tab_selected_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__progress_primary_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_more_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_more_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_search.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_menubg.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_menubg.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_solid_shadow_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_submit_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_submit_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_thumb.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\switch_thumb.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_folder_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_edittop.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_edittop.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_apk_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_apk_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_go.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toast_frame.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\toast_frame.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_longpressed_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_videofolder_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_videofolder_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_search_right_default.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_right_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_search_right_selected.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_right_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_device_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_device_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_addressbar_right_0.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_addressbar_right_0.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_thumb_activated.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\switch_thumb_activated.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_activated.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\list_activated.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bluetooth_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_bluetooth_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_ftp_notify.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_ftp_notify.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_search_default.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_bg_disabled.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\switch_bg_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_compress_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_compress_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ringtones_ic_launcher.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ringtones_ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_thumb_pressed.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\switch_thumb_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check_off_pressed.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_bg.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\switch_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__progress_bg_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__btn_cab_done_default_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_full_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_copy_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_copy_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_apk_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_apk_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cancel_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_excel_new.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_excel_new.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scrollbar_handle.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\scrollbar_handle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_video_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_video_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__progress_bg_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_audio_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_audio_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_takephoto_new.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_takephoto_new.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_menubg_select.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_menubg_select.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_voice_search.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_audio_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_audio_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_folder_new.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_new.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_document_new.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_document_new.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__progress_secondary_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_document_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_document_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_48_outer_holo.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_search_selected.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_audiofolder_filetype.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_audiofolder_filetype.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dropdown_picker.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_dropdown_picker.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__progress_primary_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_share_actionbar.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_share_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_pressed.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\list_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_checkon_edit.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\btn_checkon_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_wifi_menu.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\ic_wifi_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_editbottom.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\bg_editbottom.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abs__toast_frame.9.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\abs__toast_frame.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

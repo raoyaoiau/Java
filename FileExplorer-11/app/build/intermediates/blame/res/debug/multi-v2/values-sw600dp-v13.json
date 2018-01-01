@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-sw600dp\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "21,23,31,27,29,25,36,33",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "796,916,1383,1145,1262,1032,1602,1460",
+                        "endColumns": "62,68,69,65,66,62,60,55",
+                        "endOffsets": "854,980,1448,1206,1324,1090,1658,1511"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "133,196,265,335,401,468,531,592",
+                        "endColumns": "62,68,69,65,66,62,60,55",
+                        "endOffsets": "191,260,330,396,463,526,587,643"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-sw600dp\\abs__bools.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "704",
+                        "endColumns": "77",
+                        "endOffsets": "777"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-sw600dp\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "21,23,31,27,29,25,36,33",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "796,916,1383,1145,1262,1032,1602,1460",
+                        "endColumns": "62,68,69,65,66,62,60,55",
+                        "endOffsets": "854,980,1448,1206,1324,1090,1658,1511"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "133,196,265,335,401,468,531,592",
+                        "endColumns": "62,68,69,65,66,62,60,55",
+                        "endOffsets": "191,260,330,396,463,526,587,643"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-sw600dp\\abs__bools.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "704",
+                        "endColumns": "77",
+                        "endOffsets": "777"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}

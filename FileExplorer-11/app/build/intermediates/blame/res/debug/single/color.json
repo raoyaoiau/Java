@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    }
+]

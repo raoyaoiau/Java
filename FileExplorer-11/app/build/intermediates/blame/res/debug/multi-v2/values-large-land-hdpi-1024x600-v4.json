@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\values-large-land-hdpi-1024x600-v4\\values-large-land-hdpi-1024x600-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-large-land-hdpi-1024x600\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "21,23,31,27,29,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "796,916,1383,1145,1262,1032",
+                        "endColumns": "62,68,69,65,66,62",
+                        "endOffsets": "854,980,1448,1206,1324,1090"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,187,257,323,390",
+                        "endColumns": "62,68,69,65,66,62",
+                        "endOffsets": "113,182,252,318,385,448"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-land-hdpi-1024x600-v4\\values-large-land-hdpi-1024x600-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-large-land-hdpi-1024x600\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "21,23,31,27,29,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "796,916,1383,1145,1262,1032",
+                        "endColumns": "62,68,69,65,66,62",
+                        "endOffsets": "854,980,1448,1206,1324,1090"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,187,257,323,390",
+                        "endColumns": "62,68,69,65,66,62",
+                        "endOffsets": "113,182,252,318,385,448"
+                    }
+                }
+            ]
+        }
+    ]
+}

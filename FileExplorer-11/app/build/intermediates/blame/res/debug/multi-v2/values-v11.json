@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-v11\\abs__themes.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,253",
+                        "endLines": "6,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "247,453"
+                    },
+                    "to": {
+                        "startLines": "5,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,382",
+                        "endLines": "8,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "377,579"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-v11\\abs__themes.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,253",
+                        "endLines": "6,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "247,453"
+                    },
+                    "to": {
+                        "startLines": "5,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,382",
+                        "endLines": "8,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "377,579"
+                    }
+                }
+            ]
+        }
+    ]
+}

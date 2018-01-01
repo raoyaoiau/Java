@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-w480dp\\abs__config.xml",
+                    "from": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1064",
+                        "endColumns": "72",
+                        "endOffsets": "1132"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "72",
+                        "endOffsets": "179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-w480dp\\abs__bools.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "698,755",
+                        "endColumns": "55,61",
+                        "endOffsets": "749,812"
+                    },
+                    "to": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,184",
+                        "endColumns": "55,61",
+                        "endOffsets": "106,241"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-w480dp\\abs__config.xml",
+                    "from": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1064",
+                        "endColumns": "72",
+                        "endOffsets": "1132"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "72",
+                        "endOffsets": "179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-w480dp\\abs__bools.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "698,755",
+                        "endColumns": "55,61",
+                        "endOffsets": "749,812"
+                    },
+                    "to": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,184",
+                        "endColumns": "55,61",
+                        "endOffsets": "106,241"
+                    }
+                }
+            ]
+        }
+    ]
+}

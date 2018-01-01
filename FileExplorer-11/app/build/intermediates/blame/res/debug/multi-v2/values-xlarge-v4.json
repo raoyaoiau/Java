@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-xlarge\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "21,23,31,27,29,25,34,39,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "796,916,1383,1145,1262,1032,1539,1812,2086",
+                        "endColumns": "62,68,69,65,66,62,60,68,68",
+                        "endOffsets": "854,980,1448,1206,1324,1090,1595,1876,2150"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,187,257,323,390,453,514,583",
+                        "endColumns": "62,68,69,65,66,62,60,68,68",
+                        "endOffsets": "113,182,252,318,385,448,509,578,647"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\src\\main\\res\\values-xlarge\\abs__dimens.xml",
+                    "from": {
+                        "startLines": "21,23,31,27,29,25,34,39,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "796,916,1383,1145,1262,1032,1539,1812,2086",
+                        "endColumns": "62,68,69,65,66,62,60,68,68",
+                        "endOffsets": "854,980,1448,1206,1324,1090,1595,1876,2150"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,187,257,323,390,453,514,583",
+                        "endColumns": "62,68,69,65,66,62,60,68,68",
+                        "endOffsets": "113,182,252,318,385,448,509,578,647"
+                    }
+                }
+            ]
+        }
+    ]
+}

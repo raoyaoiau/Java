@@ -1,0 +1,4 @@
+#Mon Jan 01 22:59:47 CST 2018
+base.0=C\:\\Users\\xiaxu\\Desktop\\java_android\\code\\demo\\FileExplorer-11\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
